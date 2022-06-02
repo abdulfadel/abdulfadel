@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Abdul Fadel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+<h1 align="center"> Hello, I'm Abdul Fadel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"/> </h1>
 
 <h3 align="center">  Tech Enthusiast | Software Developer </h3> <br>
 <div id="header" align="center"><img src="https://cdn.discordapp.com/attachments/749519439774482464/981394194692206632/Abdulfadelclear.png" width="100"/></div>
