@@ -19,6 +19,7 @@
 -  **Working :**  Data Annotations :computer: | Computer Vision 🤖 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Books :books: | Gaming 🎮 | Coding 🧠
+- **Accolades:** TensorIoT Hackathon Winner 🏆
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
